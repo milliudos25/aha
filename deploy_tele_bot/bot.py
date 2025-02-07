@@ -8,7 +8,7 @@ from mistralai import Mistral
 import requests
 
 # Настройки
-BOT_TOKEN = "7580673112:AAG2bqqvi66VdTZxMaWhLNV2VKgSbIXSNLY"
+BOT_TOKEN = "7204773293:AAGoXLtiJkwaXnU9_kkt3yKoKqZcOS6XUZA"
 MISTRAL_API_KEY = "rc71c6xJKYWbnfUSlvxRDi0UkmjgNfWI"
 MODEL = "mistral-large-latest"  # Используйте нужную модель
 
