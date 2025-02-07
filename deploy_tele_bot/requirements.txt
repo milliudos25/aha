@@ -1,0 +1,6 @@
+aiogram>=3.4.1
+asyncio>=3.4.3
+mistralai>=0.0.10
+requests>=2.31.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.3
